@@ -29,14 +29,14 @@
   },
   "homepage": "https://reasonml.github.io/reason-react/",
   "devDependencies": {
-    "bs-platform": "^7.3.1",
+    "bs-platform": ">=8.4.2",
     "jest": "^24.9.0",
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
     "reason-test-framework": "^0.3.2"
   },
   "peerDependencies": {
-    "bs-platform": ">=7.1.1",
+    "bs-platform": ">=8.4.2",
     "react": ">=16.8.1",
     "react-dom": ">=16.8.1"
   },

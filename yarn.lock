@@ -660,10 +660,10 @@
   dependencies:
     "resolve" "1.1.7"
 
-"bs-platform@^7.3.1":
-  "integrity" "sha512-seJL5g4anK9la4erv+B2o2sMHQCxDF6OCRl9en3hbaUos/S3JsusQ0sPp4ORsbx5eXfHLYBwPljwKXlgpXtsgQ=="
-  "resolved" "https://registry.npmjs.org/bs-platform/-/bs-platform-7.3.2.tgz"
-  "version" "7.3.2"
+"bs-platform@>=8.4.2":
+  "integrity" "sha512-9q7S4/LLV/a68CweN382NJdCCr/lOSsJR3oQYnmPK98ChfO/AdiA3lYQkQTp6T+U0I5Z5RypUAUprNstwDtMDQ=="
+  "resolved" "https://registry.npmjs.org/bs-platform/-/bs-platform-8.4.2.tgz"
+  "version" "8.4.2"
 
 "bser@2.1.1":
   "integrity" "sha512-gQxTNE/GAfIIrmHLUE3oJyp5FO6HRBfhjnw4/wMmA63ZGDJnWBmgY/lyQBpnDUkGmAhbSe39tx2d/iTOAfglwQ=="
